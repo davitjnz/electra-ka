@@ -29,6 +29,7 @@ Under the hood, the electra model uses the same architecture as BERT, but to avo
 
 To read more about electra please refer to the paper [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/pdf?id=r1xMH1BtvB).
 
+In case of any questions/comments please feel free to reach out at djanezashvili[at]gmail.com
 
 Have a great coding!
 
