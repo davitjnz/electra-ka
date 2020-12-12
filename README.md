@@ -12,9 +12,7 @@ The model is trained on 23GB of Georgian text collected from 4854621 pages in th
 
 For sequence classification tasks on ideological propaganda on social media, it has achieved 91.3% accuracy.
 
-The [fine-tunned model](https://huggingface.co/jnz/electra-ka-fake-news-tagging) is also avaliable on the hub.
-
-You can start using it with simple few lines of code:
+The [fine-tuned model](https://huggingface.co/jnz/electra-ka-fake-news-tagging) is also available on the hub. You can start using it with simple few lines of code:
 
 ```python
 from transformers import ElectraTokenizerFast
