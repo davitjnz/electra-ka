@@ -8,7 +8,7 @@ The model is available on [huggingface hub](https://huggingface.co/jnz/electra-k
 
 I hope this model will make the life of thous Data Scientists working with the Georgian language much easier. 
 
-The model is trained on 23GB of Georgian text collected from 4854621 pages in the commoncrawl archive.
+The model is trained on 33GB of Georgian text collected from 4854621 pages in the commoncrawl archive.
 
 For sequence classification tasks on ideological propaganda on social media, it has achieved 91.3% accuracy.
 
