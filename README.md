@@ -19,7 +19,7 @@ from transformers import ElectraTokenizerFast
 model = ElectraForSequenceClassification.from_pretrained("./electra-ka-fake-news-tagging")
 tokenizer = ElectraTokenizerFast.from_pretrained("./electra-ka-fake-news-tagging/")
 
-inputs = tokenizer("რამდენიმე წუთის წინ ერთ-ერთი საზოგადო მოღვაწე ფიზიკურად დაუპირისპირდა ...", return_tensors="pt")
+inputs = tokenizer("your text goes here...", return_tensors="pt")
 predictions = model(**inputs)
 ```
 
