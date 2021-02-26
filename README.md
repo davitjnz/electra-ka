@@ -25,6 +25,8 @@ predictions = model(**inputs)
 
 Under the hood, the electra model uses the same architecture as BERT, but to avoid misuse can only serve as a discriminator, which makes it much harder to use for text generation.
 
+BERT architecture language model for Georgian language.
+
 To read more about electra please refer to the paper [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/pdf?id=r1xMH1BtvB).
 
 In case of any questions/comments please feel free to reach out at djanezashvili[at]gmail.com
