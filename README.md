@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**electra-ka** is an open-source model for Georgian language. 
+**electra-ka** is an open-source model for the Georgian language. 
 
 The model is available on [huggingface hub](https://huggingface.co/jnz/electra-ka)
 
